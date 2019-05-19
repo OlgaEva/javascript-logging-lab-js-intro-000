@@ -1,4 +1,4 @@
-const expect = require('expect')
+/* const expect = require('expect')
 const fs = require('fs')
 const jsdom = require('jsdom')
 const path = require('path')
@@ -44,3 +44,9 @@ describe('index', () => {
     })
   })
 })
+*/
+function isEven(number) {
+  return number % 2 === 0;
+}
+
+isEven(7);
