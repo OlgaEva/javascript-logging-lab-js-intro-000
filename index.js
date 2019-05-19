@@ -5,3 +5,4 @@ function checkIfEven(number) {
         return false;}
     
     checkIfEven(7);
+}
