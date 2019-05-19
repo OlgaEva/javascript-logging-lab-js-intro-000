@@ -1,5 +1,1 @@
-function isEven(number) {
-  return number % 2 === 0;
-}
-
-isEven(7);
+console.error("HALP!")
