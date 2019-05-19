@@ -1,9 +1,5 @@
-function checkIfEven(number) {
-    if ((number) % 2 === 0); {
-        return true;
-    } else {
-        return false;}
-    
-    checkIfEven(7);
+function isEven(number) {
+  return number % 2 === 0;
 }
-checkIfEven(7);
+
+isEven(7);
